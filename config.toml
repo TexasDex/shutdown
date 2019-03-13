@@ -1,4 +1,4 @@
-baseURL = "http://daysuntilnextshutdown.com/"
+baseURL = "https://daysuntilnextshutdown.com/"
 languageCode = "en-us"
 title = "Days Until Next Shutdown"
 theme = "ananke_child"
