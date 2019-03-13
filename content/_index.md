@@ -7,7 +7,7 @@ layout: "single"
 
 The United States Government is currently funded through midnight on
 
-<div class="tc b">Dec 21, 2018</div>
+<div class="tc b">Sept 30, 2019</div>
 
 <div id="unless">Unless lawmakers pass a continuing resolution, the federal government will shutdown in:</div>
 
@@ -16,7 +16,7 @@ The United States Government is currently funded through midnight on
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Dec 21, 2018 23:59:59").getTime(); 
+var countDownDate = new Date("Sept 30, 2019 23:59:59").getTime(); 
 var d = new Date();
 var tzOffset = 300 - d.getTimezoneOffset();
 
